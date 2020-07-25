@@ -6,7 +6,7 @@
 
 3.执行Delete.exe "whoami" malicious.dll
 
-![](C:\Users\nan3r\Desktop\delete2system\123.PNG)
+![Image](https://github.com/Nan3r/delete2system/raw/master/123.PNG?raw=true)
 
 
 
